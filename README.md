@@ -39,3 +39,6 @@ https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/versions/1/data
 通过 Pareto分析识别核心客户群体，并发现部分高销售客户利润为负的潜在业务问题。
 
 
+![总览](/总览.png)
+![商品分析](/商品分析.png)
+![客户分析](/客户分析.png)
